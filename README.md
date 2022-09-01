@@ -2,7 +2,7 @@
 
 GENERAL DESCRIPTION : Implementation of Blast technique to search for a protein query in a protein database.
 
-# INPUT :
+## INPUT
 
     1- A protein sequence query
 
@@ -12,7 +12,7 @@ GENERAL DESCRIPTION : Implementation of Blast technique to search for a protein 
 
     4- HSP threshold 
 
-# OUTPUT
+## OUTPUT
 
   1- HSP(s) with their score if they exist. Along with the ID of the sequence in the database that the 
   hsp was found in (For example, the first sequence would have ID of zero, the second sequence 
